@@ -11,7 +11,7 @@ cd to root directory, and run
 go run cmd/mow-solver/main.go [-f=input_file_path]
 ```
 
-### Manuel
+### Manual
 ```
 go run cmd/mow-solver/main.go -h
 Usage of ./test-jellysmack:
@@ -26,5 +26,5 @@ go test ./...
 
 ### Algorithm
 ```
-/internal/service/mower.go
+/internal/service/mower.go:42
 ```
